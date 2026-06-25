@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "./SectionHeading";
 import { experienceCards } from "@/lib/data";
 
 export default function Experience() {
