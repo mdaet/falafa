@@ -1,21 +1,29 @@
+export const siteConfig = {
+  name: "Falafa",
+  description: "Gîte en Normandie",
+  email: "contact@falafa.com",
+  phone: "+33 6 00 00 00 00",
+  location: "Normandie, France",
+};
+
 export const experienceCards = [
   {
-    title: "Expérience 1",
-    description: "Description exemple",
+    title: "Confort",
+    description: "Un lieu pensé pour le repos et la détente.",
   },
   {
-    title: "Expérience 2",
-    description: "Description exemple",
+    title: "Nature",
+    description: "Entre mer et campagne normande.",
   },
 ];
 
 export const faqItems = [
   {
-    question: "Question 1 ?",
-    answer: "Réponse exemple.",
+    question: "Quels sont les horaires d'arrivée ?",
+    answer: "À partir de 16h.",
   },
   {
-    question: "Question 2 ?",
-    answer: "Réponse exemple.",
+    question: "Les animaux sont-ils acceptés ?",
+    answer: "Oui, sur demande.",
   },
 ];
