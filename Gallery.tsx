@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "./SectionHeading";
 import { amenities, galleryImages } from "@/lib/data";
 
 export default function Gallery() {
