@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { BedDouble, Sparkles, Receipt, Bath, UserPlus } from "lucide-react";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "./SectionHeading";
 
 const seasons = [
   { name: "Basse saison", price: "100 €", min: "2 nuits" },
