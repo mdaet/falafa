@@ -1,0 +1,136 @@
+{
+  "honfleur": {
+    "title": "Vieux bassin de Honfleur",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 3.0",
+    "artist": "Rebexho",
+    "file": "Vieux_bassin_Honfleur.JPG"
+  },
+  "deauville": {
+    "title": "File:Les Planches de Deauville (2).jpg",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "Avi1111 dr. avishai teicher",
+    "file": "Les Planches de Deauville (2).jpg"
+  },
+  "trouville": {
+    "title": "File:The seaside of Trouville sur Mer.jpg",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 3.0",
+    "artist": "Liberaler Humanist",
+    "file": "The seaside of Trouville sur Mer.jpg"
+  },
+  "pont-leveque": {
+    "title": "Pont-l'Évêque (Calvados)",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "ChBougui",
+    "file": "Hôtel_de_ville_de_Pont-l'Évêque.jpg"
+  },
+  "etretat": {
+    "title": "Étretat",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "Jörg Braukmann",
+    "file": "Vue_d'Étretat.jpg"
+  },
+  "plages-debarquement": {
+    "title": "Arromanches-les-Bains",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "Florian Pépellin",
+    "file": "Arromanches-les-Bains_à_marée_basse_(juillet_2025).JPG"
+  },
+  "cidre": {
+    "title": "File:Berthouville verger de pommiers.jpg",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "Public domain",
+    "artist": "Stanzilla",
+    "file": "Berthouville verger de pommiers.jpg"
+  },
+  "cabourg": {
+    "title": "File:Le Grand Hôtel Cabourg, Cabourg, Lower Normandy, France - panoramio.jpg",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 3.0",
+    "artist": "M.Strīķis",
+    "file": "Le Grand Hôtel Cabourg, Cabourg, Lower Normandy, France - panoramio.jpg"
+  },
+  "lisieux": {
+    "title": "Basilique Sainte-Thérèse de Lisieux",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "Raimond Spekking"
+  },
+  "beuvron-en-auge": {
+    "title": "Beuvron-en-Auge",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 3.0",
+    "artist": "Cicero"
+  },
+  "pont-audemer": {
+    "title": "Pont-Audemer",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 3.0",
+    "artist": "Calips"
+  },
+  "caen": {
+    "title": "Château de Caen",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "Public domain",
+    "artist": "Nikater"
+  },
+  "mont-saint-michel": {
+    "title": "Mont-Saint-Michel",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "CC BY-SA 4.0",
+    "artist": "Lynx1211"
+  },
+  "paris": {
+    "title": "Tour Eiffel",
+    "size": [
+      1200,
+      900
+    ],
+    "license": "Public domain",
+    "artist": "Benh LIEU SONG"
+  }
+}

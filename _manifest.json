@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "salon-1",
+    "category": "salon",
+    "src": "/images/gite/salon-1.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Coin salon dans l'établissement Gîte Falafa Normand 2.jpeg"
+  },
+  {
+    "slug": "salon-2",
+    "category": "salon",
+    "src": "/images/gite/salon-2.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Coin salon dans l'établissement Gîte Falafa Normand 3.jpeg"
+  },
+  {
+    "slug": "salon-3",
+    "category": "salon",
+    "src": "/images/gite/salon-3.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Coin salon dans l'établissement Gîte Falafa Normand 4.jpeg"
+  },
+  {
+    "slug": "salon-4",
+    "category": "salon",
+    "src": "/images/gite/salon-4.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Coin salon dans l'établissement Gîte Falafa Normand.jpeg"
+  },
+  {
+    "slug": "cuisine-1",
+    "category": "cuisine",
+    "src": "/images/gite/cuisine-1.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Cuisine ou kitchenette dans l'établissement Gîte Falafa Normand 2.jpeg"
+  },
+  {
+    "slug": "cuisine-2",
+    "category": "cuisine",
+    "src": "/images/gite/cuisine-2.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Cuisine ou kitchenette dans l'établissement Gîte Falafa Normand 3.jpeg"
+  },
+  {
+    "slug": "cuisine-3",
+    "category": "cuisine",
+    "src": "/images/gite/cuisine-3.jpg",
+    "w": 500,
+    "h": 375,
+    "orientation": "landscape",
+    "original": "Cuisine ou kitchenette dans l'établissement Gîte Falafa Normand 4.jpeg"
+  },
+  {
+    "slug": "cuisine-4",
+    "category": "cuisine",
+    "src": "/images/gite/cuisine-4.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Cuisine ou kitchenette dans l'établissement Gîte Falafa Normand.jpeg"
+  },
+  {
+    "slug": "galerie-1",
+    "category": "galerie",
+    "src": "/images/gite/galerie-1.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Photo de la galerie de l'établissement Gîte Falafa Normand, à Pont-l'Évêque 2.jpeg"
+  },
+  {
+    "slug": "galerie-2",
+    "category": "galerie",
+    "src": "/images/gite/galerie-2.jpg",
+    "w": 500,
+    "h": 375,
+    "orientation": "landscape",
+    "original": "Photo de la galerie de l'établissement Gîte Falafa Normand, à Pont-l'Évêque 3.jpeg"
+  },
+  {
+    "slug": "galerie-3",
+    "category": "galerie",
+    "src": "/images/gite/galerie-3.jpg",
+    "w": 500,
+    "h": 375,
+    "orientation": "landscape",
+    "original": "Photo de la galerie de l'établissement Gîte Falafa Normand, à Pont-l'Évêque 4.jpeg"
+  },
+  {
+    "slug": "galerie-4",
+    "category": "galerie",
+    "src": "/images/gite/galerie-4.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "Photo de la galerie de l'établissement Gîte Falafa Normand, à Pont-l'Évêque.jpeg"
+  },
+  {
+    "slug": "sejour-1",
+    "category": "sejour",
+    "src": "/images/gite/sejour-1.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "un salon avec une table et des chaises de salle à manger dans l'établissement Gîte Falafa Normand, à Pont-l'Évêque.jpeg"
+  },
+  {
+    "slug": "exterieur-1",
+    "category": "exterieur",
+    "src": "/images/gite/exterieur-1.jpg",
+    "w": 1024,
+    "h": 767,
+    "orientation": "landscape",
+    "original": "une maison avec un jardin et une balançoire dans l'établissement Gîte Falafa Normand, à Pont-l'Évêque.jpeg"
+  },
+  {
+    "slug": "autre-1",
+    "category": "autre",
+    "src": "/images/gite/autre-1.jpg",
+    "w": 500,
+    "h": 281,
+    "orientation": "landscape",
+    "original": "une salle à manger avec une table et des chaises dans l'établissement Gîte Falafa Normand, à Pont-l'Évêque.jpeg"
+  }
+]
