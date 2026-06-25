@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Star, Quote } from "lucide-react";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "./SectionHeading";
 import PlaceholderImage from "@/components/ui/PlaceholderImage";
 import { siteConfig, testimonials } from "@/lib/data";
 
