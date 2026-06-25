@@ -3,7 +3,7 @@
 import { useMemo } from "react";
 import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "./SectionHeading";
 
 const BOOKING_URL =
   "https://www.booking.com/hotel/fr/gite-falafa-normand.fr.html";
