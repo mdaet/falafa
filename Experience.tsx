@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import SectionHeading from "./SectionHeading";
-import { experienceCards } from "../lib/data";
+import { experienceCards } from "@/lib/data";
 
 export default function Experience() {
   return (
