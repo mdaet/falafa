@@ -1,18 +1,21 @@
 export const experienceCards = [
   {
-    title: "Confort",
-    description: "Un gîte pensé pour le repos et la douceur."
+    title: "Expérience 1",
+    description: "Description exemple",
   },
   {
-    title: "Nature",
-    description: "Au cœur du Pays d’Auge, entre mer et campagne."
+    title: "Expérience 2",
+    description: "Description exemple",
+  },
+];
+
+export const faqItems = [
+  {
+    question: "Question 1 ?",
+    answer: "Réponse exemple.",
   },
   {
-    title: "Authenticité",
-    description: "Architecture normande et matériaux naturels."
+    question: "Question 2 ?",
+    answer: "Réponse exemple.",
   },
-  {
-    title: "Évasion",
-    description: "Un lieu pour ralentir et se reconnecter."
-  }
 ];
